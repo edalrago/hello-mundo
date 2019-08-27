@@ -1,8 +1,7 @@
-# hello-mundo
+﻿# hello-mundo
 Repositorio para aprender a programar, usar git y git hub
 
-## Esta es una moficación en el readme 
+lista para ver cambios en el repositorio local 
 
-que se hizo en la rama readme-edits
-
-cambio numero 2 para hacer revisión
++ cambio 1
++ cambio 2
