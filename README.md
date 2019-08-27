@@ -5,3 +5,5 @@ lista para ver cambios en el repositorio local
 
 + cambio 1
 + cambio 2
+
+>modificación en el arxhivo para nuevo comit.
